@@ -11,5 +11,6 @@
     "npm"
   ],
   "author": "Vishwanathph",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/vish-git/my-first-module.git"
 }
